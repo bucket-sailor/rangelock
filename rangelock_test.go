@@ -21,7 +21,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/bucket-sailor/windlass/rangelock"
+	"github.com/bucket-sailor/rangelock"
 	"github.com/stretchr/testify/require"
 )
 
